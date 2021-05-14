@@ -6,8 +6,8 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class Investor {
-	// DB Connection
+public class Investor {//chnge
+	// DB Connection new one
 			public Connection connect() {
 				Connection con = null;
 
